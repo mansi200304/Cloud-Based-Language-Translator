@@ -1,0 +1,13 @@
+cloud-based-language-translator/
+│
+├── README.md
+├── requirements.txt
+├── app/
+│   ├── lambda_function.py
+│   └── utils.py
+├── infrastructure/
+│   └── cloudformation.yaml
+└── frontend/
+    ├── index.html
+    ├── style.css
+    └── script.js
